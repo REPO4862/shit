@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: 굴림체;
+}
+.wa{
+    color : rgb(0, 255, 0);
+}
+.sans{
+    color: blue;
+}
